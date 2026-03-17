@@ -10,6 +10,7 @@ Transformer une demande produit en spécification exploitable par l'équipe tech
 
 ## Inputs expected
 - Contexte métier
+- contexte technique
 - Problème à résoudre
 - Utilisateurs concernés
 - Contraintes techniques ou réglementaires
